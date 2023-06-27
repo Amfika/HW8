@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Smoke tests">
+    <test name="First tests" parallel="true" thread-count="4">
+        <groups>
+            <run>
+                <include name="negative"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="AnimalsTest"/>
+            <class name="BirdsTest"/>
+        </classes>
+    </test>
+</suite>

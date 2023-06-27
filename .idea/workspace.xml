@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="HW_8:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2decf414-18d5-48cb-9212-0362caf0d26e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/HW_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/animals/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/animals/Elephant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/animals/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/birds/Birds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/birds/Dove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/birds/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fishes/Fishes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fishes/GoldFish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fishes/Shark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AnimalsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BirdsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DivisionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FishesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TrialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resourses/NegativeTestRun.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resourses/PositiveTestRun.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/resourses/NegativeTestRun.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RZfrOR4vg8ajgkfy49wUIUop4p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "A:/Курсы/Автоматизация/Проекты/HW_8/src/test/java/resourses",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="A:\Курсы\Автоматизация\Проекты\HW_8\src\test\java\resourses" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.A:/Курсы/Автоматизация/Проекты/HW_8/src/test/java/resourses/NegativeTestRun.xml">
+    <configuration name="A:/Курсы/Автоматизация/Проекты/HW_8/src/test/java/resourses/NegativeTestRun.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HW_8" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resourses/NegativeTestRun.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A:/Курсы/Автоматизация/Проекты/HW_8/src/test/java/resourses/PositiveTestRun.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HW_8" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resourses/PositiveTestRun.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AnimalsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HW_8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AnimalsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BirdsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HW_8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BirdsTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DivisionTest.divideWithCorrectData" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HW_8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DivisionTest" />
+      <option name="METHOD_NAME" value="divideWithCorrectData" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.A:/Курсы/Автоматизация/Проекты/HW_8/src/test/java/resourses/NegativeTestRun.xml" />
+        <item itemvalue="TestNG.DivisionTest.divideWithCorrectData" />
+        <item itemvalue="TestNG.A:/Курсы/Автоматизация/Проекты/HW_8/src/test/java/resourses/PositiveTestRun.xml" />
+        <item itemvalue="TestNG.AnimalsTest" />
+        <item itemvalue="TestNG.BirdsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2decf414-18d5-48cb-9212-0362caf0d26e" name="Changes" comment="" />
+      <created>1687462724826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687462724826</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
