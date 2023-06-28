@@ -9,9 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2decf414-18d5-48cb-9212-0362caf0d26e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="2decf414-18d5-48cb-9212-0362caf0d26e" name="Changes" comment="Commit with new file .gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AnimalsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AnimalsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BirdsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BirdsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,54 +101,60 @@
       <recent name="A:\Курсы\Автоматизация\Проекты\HW_8\src\test\java\resourses" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.A:/Курсы/Автоматизация/Проекты/HW_8/src/test/java/resourses/NegativeTestRun.xml">
-    <configuration name="A:/Курсы/Автоматизация/Проекты/HW_8/src/test/java/resourses/NegativeTestRun.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="HW_8" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resourses/NegativeTestRun.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="A:/Курсы/Автоматизация/Проекты/HW_8/src/test/java/resourses/PositiveTestRun.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="HW_8" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resourses/PositiveTestRun.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AnimalsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.BirdsTest.howEagleMove">
+    <configuration name="AnimalsTest.howManyLionMove" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HW_8" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="AnimalsTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="METHOD_NAME" value="howManyLionMove" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BirdsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BirdsTest.howEagleMove" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HW_8" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="BirdsTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="METHOD_NAME" value="howEagleMove" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivisionTest.divideWithCorrectData" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BirdsTest.howManyDoveBreathe" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="HW_8" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DivisionTest" />
-      <option name="METHOD_NAME" value="divideWithCorrectData" />
+      <option name="MAIN_CLASS_NAME" value="BirdsTest" />
+      <option name="METHOD_NAME" value="howManyDoveBreathe" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BirdsTest.howManyEagleBreathe" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HW_8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BirdsTest" />
+      <option name="METHOD_NAME" value="howManyEagleBreathe" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BirdsTest.howMoveDove" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HW_8" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BirdsTest" />
+      <option name="METHOD_NAME" value="howMoveDove" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -157,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.A:/Курсы/Автоматизация/Проекты/HW_8/src/test/java/resourses/NegativeTestRun.xml" />
-        <item itemvalue="TestNG.DivisionTest.divideWithCorrectData" />
-        <item itemvalue="TestNG.A:/Курсы/Автоматизация/Проекты/HW_8/src/test/java/resourses/PositiveTestRun.xml" />
-        <item itemvalue="TestNG.AnimalsTest" />
-        <item itemvalue="TestNG.BirdsTest" />
+        <item itemvalue="TestNG.BirdsTest.howEagleMove" />
+        <item itemvalue="TestNG.BirdsTest.howManyEagleBreathe" />
+        <item itemvalue="TestNG.BirdsTest.howMoveDove" />
+        <item itemvalue="TestNG.BirdsTest.howManyDoveBreathe" />
+        <item itemvalue="TestNG.AnimalsTest.howManyLionMove" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +181,14 @@
       <option name="presentableId" value="Default" />
       <updated>1687462724826</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit with new file .gitignore">
+      <created>1687973954289</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687973954289</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,5 +201,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit with new file .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit with new file .gitignore" />
   </component>
 </project>
