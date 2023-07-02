@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Smoke tests">
+    <test name="xmlParam-pam-pam" parallel="true" thread-count="5">
+        <parameter name="xml-param" value="Name-1"/>
+        <parameter name="xml-param2" value="Name-2"/>
+        <classes>
+            <class name="BirdsTest"/>
+        </classes>
+    </test>
+</suite>
